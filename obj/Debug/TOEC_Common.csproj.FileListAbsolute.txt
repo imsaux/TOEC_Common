@@ -1,0 +1,21 @@
+E:\SVN\SourceCode\TOECInspection\trunk\TOEC Unit Control Center\TOEC_Common\bin\Debug\Config\Log4Net.config
+E:\SVN\SourceCode\TOECInspection\trunk\TOEC Unit Control Center\TOEC_Common\bin\Debug\TOEC_Common.dll
+E:\SVN\SourceCode\TOECInspection\trunk\TOEC Unit Control Center\TOEC_Common\bin\Debug\TOEC_Common.pdb
+E:\SVN\SourceCode\TOECInspection\trunk\TOEC Unit Control Center\TOEC_Common\bin\Debug\log4net.dll
+E:\SVN\SourceCode\TOECInspection\trunk\TOEC Unit Control Center\TOEC_Common\bin\Debug\log4net.xml
+E:\SVN\SourceCode\TOECInspection\trunk\TOEC Unit Control Center\TOEC_Common\obj\Debug\TOEC_Common.dll
+E:\SVN\SourceCode\TOECInspection\trunk\TOEC Unit Control Center\TOEC_Common\obj\Debug\TOEC_Common.pdb
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\bin\Debug\Config\Log4Net.config
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\bin\Debug\TOEC_Common.dll
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\bin\Debug\TOEC_Common.pdb
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\bin\Debug\log4net.dll
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\bin\Debug\log4net.xml
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\obj\Debug\TOEC_Common.dll
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\obj\Debug\TOEC_Common.pdb
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\obj\Debug\TOEC_Common.csprojResolveAssemblyReference.cache
+D:\code\TOEC_Common\bin\Debug\Config\Log4Net.config
+D:\code\TOEC_Common\bin\Debug\TOEC_Common.dll
+D:\code\TOEC_Common\bin\Debug\TOEC_Common.pdb
+D:\code\TOEC_Common\obj\Debug\TOEC_Common.dll
+D:\code\TOEC_Common\obj\Debug\TOEC_Common.pdb
+D:\code\TOEC_Common\obj\Debug\TOEC_Common.csprojResolveAssemblyReference.cache

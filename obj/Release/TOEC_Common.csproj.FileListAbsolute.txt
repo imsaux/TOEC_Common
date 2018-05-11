@@ -1,0 +1,7 @@
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\bin\Release\Config\Log4Net.config
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\bin\Release\TOEC_Common.dll
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\bin\Release\TOEC_Common.pdb
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\bin\Release\log4net.dll
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\bin\Release\log4net.xml
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\obj\Release\TOEC_Common.dll
+E:\SVN\SourceCode\TOEC_Framework\TOEC_Common\TOEC_Common\obj\Release\TOEC_Common.pdb
